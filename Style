@@ -1,0 +1,182 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+}
+
+.container {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+
+.heroi {
+    height: 65vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient( #1D1160);
+}
+
+.heroi-conteudo {
+    text-align: center;
+    color: white;
+}
+
+.heroi-titulo {
+    font-size: 4rem;
+    font-weight: bold;
+    letter-spacing: 8px;
+}
+
+
+.titulo-secao {
+    font-size: 2.5rem;
+    text-align: center;
+    margin-bottom: 40px;
+    color: #1D1160;
+    padding-bottom: 10px;
+    border:#00788C;
+}
+
+
+.historia {
+    padding: 60px 0;
+    background-color: white;
+}
+
+.linha-tempo {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.item-linha-tempo {
+    margin-bottom: 30px;
+}
+
+.ano-linha-tempo {
+    display: inline-block;
+    background: #00788C;
+    color: white;
+    padding: 8px 20px;
+    border-radius: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.conteudo-linha-tempo {
+    background: white;
+    padding: 20px;
+    border-radius: 5px;
+    
+}
+
+.conteudo-linha-tempo h3 {
+    color: #1D1160;
+    margin-bottom: 10px;
+}
+
+.conteudo-linha-tempo p {
+    color: black;
+    margin-bottom: 10px;
+}
+
+
+.lendas {
+    padding: 60px 0;
+    background: white;
+}
+
+.grade-jogadores {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.grade-jogadores h3 {
+    color: #1D1160;
+    font-size: 1.3rem;
+    margin: 25px 0 5px 0;
+}
+
+.posicao-jogador {
+    color: #00788C;
+    font-weight: bold;
+}
+
+.anos-jogador {
+    color: black;
+    font-size: 0.9rem;
+}
+
+.descricao-jogador {
+    color: black;
+    margin: 10px 0;
+}
+
+.conquistas-jogador {
+    margin: 10px 0;
+}
+
+.conquista {
+    background: white;
+    color: black;
+    padding: 4px 10px;
+    border-radius: 10px;
+    font-size: 0.8rem;
+    margin: 3px;
+}
+
+.numero-jogador {
+    color: black;
+    font-size: 0.85rem;
+    margin-top: 5px;
+}
+
+
+.futuro {
+    padding: 60px 0;
+    background: linear-gradient(to bottom, #1D1160);
+    color: white;
+}
+
+.futuro .titulo-secao {
+    color: white;
+    border: white;
+}
+
+.intro-futuro {
+    text-align: center;
+    font-size: 1.1rem;
+    margin-bottom: 40px;
+}
+
+.secoes-futuro {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.cartao-futuro {
+    margin-bottom: 30px;
+}
+
+.cartao-futuro h3 {
+    color: #00788C;
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+}
+
+.cartao-futuro p {
+    margin-bottom: 10px;
+    line-height: 1.7;
+}
+
+.cartao-futuro  {
+    color: white;
+}
