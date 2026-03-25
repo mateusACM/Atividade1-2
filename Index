@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Charlotte Hornets - História e Futuro</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <section id="home" class="heroi">
+        <div class="heroi-sobreposicao"></div>
+        <div class="heroi-conteudo">
+            <h1 class="heroi-titulo">CHARLOTTE HORNETS</h1>
+            
+    </section>
+
+    <section id="historia" class="historia">
+        <div class="container">
+            <h2 class="titulo-secao">A História dos Hornets</h2>
+            
+            <div class="linha-tempo">
+                <div class="item-linha-tempo">
+                    <div class="ano-linha-tempo">1988-2002</div>
+                    <div class="conteudo-linha-tempo">
+                        <h3>A Era Original dos Hornets</h3>
+                        <p>Os Charlotte Hornets entraram na NBA em 1988 como time de expansão. Rapidamente se tornaram uma das franquias mais populares da liga, com um uniforme icônico em verde-azulado e roxo que revolucionou o design esportivo dos anos 90.</p>
+                        <p>Sob a liderança de jogadores como Larry Johnson, Alonzo Mourning e Muggsy Bogues, o time se estabeleceu como competitivo no Leste, chegando aos playoffs diversas vezes. O Spectrum Center (antigo Charlotte Coliseum) era conhecido por ter uma das torcidas mais barulhentas e apaixonadas da NBA.</p>
+                    </div>
+                </div>
+
+                <div class="item-linha-tempo">
+                    <div class="ano-linha-tempo">2002-2004</div>
+                    <div class="conteudo-linha-tempo">
+                        <h3>A Mudança para Nova Orleans</h3>
+                        <p>Em 2002, a franquia original foi transferida para Nova Orleans devido a questões de arena e propriedade. Foi um momento devastador para os fãs de Charlotte, que viram seu time partir. A cidade ficou sem basquete profissional por dois anos.</p>
+                    </div>
+                </div>
+
+                <div class="item-linha-tempo">
+                    <div class="ano-linha-tempo">2004-2014</div>
+                    <div class="conteudo-linha-tempo">
+                        <h3>A Era Charlotte Bobcats</h3>
+                        <p>Charlotte ganhou uma nova franquia de expansão em 2004, chamada Charlotte Bobcats, de propriedade de Robert Johnson e posteriormente de Michael Jordan. O time enfrentou dificuldades competitivas, incluindo a pior temporada da história da NBA em 2011-12 (7-59).</p>
+                    </div>
+                </div>
+
+                <div class="item-linha-tempo">
+                    <div class="ano-linha-tempo">2014-Presente</div>
+                    <div class="conteudo-linha-tempo">
+                        <h3>O Retorno dos Hornets</h3>
+                        <p>Em 2014, a franquia oficialmente voltou a se chamar Charlotte Hornets, recuperando a história e identidade original. As cores azul-esverdeado e roxo retornaram, trazendo de volta a nostalgia dos anos 90. A franquia também recuperou oficialmente os registros históricos da era 1988-2002.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="lendas" class="lendas">
+        <div class="container">
+            <h2 class="titulo-secao">Jogadores Icônicos</h2>
+            
+            <div class="grade-jogadores">
+                <div class="cartao-jogador">
+                    <h3>Kemba Walker</h3>
+                    <p class="posicao-jogador">Armador</p>
+                    <p class="anos-jogador">2011-2019</p>
+                    <p class="descricao-jogador">O maior jogador da era moderna dos Hornets. "Cardiac Kemba" foi 3x All-Star e líder de pontuação da franquia. Seu clutch performance e lealdade à cidade o tornaram extremamente amado pelos fãs.</p>
+                    <div class="conquistas-jogador">
+                        <span class="conquista">3x All-Star</span>
+                        <span class="conquista">All-NBA Third Team 2019</span>
+                        <div class="numero-jogador">Numero da camisa: 15</div>
+                    </div>
+                </div>
+
+                <div class="cartao-jogador">
+
+                    <h3>Larry Johnson</h3>
+                    <p class="posicao-jogador">Ala-Pivô</p>
+                    <p class="anos-jogador">1991-1996</p>
+                    <p class="descricao-jogador">Rookie do Ano em 1992, "LJ" foi o primeiro grande astro dos Hornets. Sua camisa #2 foi a primeira aposentada pela franquia. Conhecido por sua força física e o icônico mascote "Grandmama" em comerciais da Converse.</p>
+                    <div class="conquistas-jogador">
+                        <span class="conquista">2x All-Star</span>
+                        <span class="conquista">Rookie do Ano 1992</span>
+                        <div class="numero-jogador">Numero da camisa: 2</div>
+                    </div>
+                </div>
+
+                <div class="cartao-jogador">
+
+                    <h3>Muggsy Bogues</h3>
+                    <p class="posicao-jogador">Armador</p>
+                    <p class="anos-jogador">1988-1997</p>
+                    <p class="descricao-jogador">Com apenas 1,60m de altura, Muggsy é o jogador mais baixo da história da NBA. Sua velocidade, visão de jogo e determinação o tornaram uma lenda em Charlotte. Líder histórico da franquia em assistências e roubos de bola.</p>
+                    <div class="conquistas-jogador">
+                        <span class="conquista">Líder em Assistências</span>
+                        <span class="conquista">Líder em Roubos</span>
+                        <div class="numero-jogador">Numero da camisa: 1</div>
+                    </div>
+                </div>
+
+                <div class="cartao-jogador">
+                    <h3>Alonzo Mourning</h3>
+                    <p class="posicao-jogador">Pivô</p>
+                    <p class="anos-jogador">1992-1995</p>
+                    <p class="descricao-jogador">Um dos melhores defensores de sua geração, Mourning foi fundamental para estabelecer a identidade defensiva dos Hornets. Posteriormente venceu um campeonato com o Miami Heat e entrou para o Hall da Fama.</p>
+                    <div class="conquistas-jogador">
+                        <span class="conquista">2x All-Star (Hornets)</span>
+                        <span class="conquista">Hall da Fama 2014</span>
+                        <div class="numero-jogador">Numero da camisa: 33</div>
+                    </div>
+                </div>
+
+                <div class="cartao-jogador">
+                    <h3>Dell Curry</h3>
+                    <p class="posicao-jogador">Ala-Armador</p>
+                    <p class="anos-jogador">1988-1998</p>
+                    <p class="descricao-jogador">Pai de Stephen Curry, Dell foi o melhor atirador da história original dos Hornets. Venceu o Sixth Man of the Year em 1994 e é o líder histórico em pontos marcados pela franquia original.</p>
+                    <div class="conquistas-jogador">
+                        <span class="conquista">6th Man Award 1994</span>
+                        <span class="conquista">Líder em Pontos</span>
+                        <div class="numero-jogador">Numero da camisa:30</div>
+                    </div>
+                </div>
+
+                <div class="cartao-jogador">
+                    <h3>Baron Davis</h3>
+                    <p class="posicao-jogador">Armador</p>
+                    <p class="anos-jogador">1999-2002</p>
+                    <p class="descricao-jogador">Um dos armadores mais explosivos de sua era, Baron Davis trouxe eletricidade ao jogo dos Hornets com suas enterradas poderosas e jogadas espetaculares. Foi All-Star e líder do time nos últimos anos em Charlotte.</p>
+                    <div class="conquistas-jogador">
+                        <span class="conquista">All-Star 2002</span>
+                        <span class="conquista">All-NBA Third Team</span>
+                        <div class="numero-jogador">Numero da camisa: 3</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="futuro" class="futuro">
+        <div class="container">
+            <h2 class="titulo-secao">O Futuro da Franquia</h2>
+            
+            <div class="conteudo-futuro">
+                <div class="intro-futuro">
+                    <p>Os Charlotte Hornets estão em um momento crucial de reconstrução e renovação, focando em desenvolver jovens talentos e construir uma cultura vencedora sustentável.</p>
+                </div>
+
+                    <div class="cartao-futuro">
+                        <h3>Jovens Promessas</h3>
+                        <p>LaMelo Ball - O Rookie do Ano 2021 é a face da franquia. Seu talento criativo, passes espetaculares e carisma trazem esperança real de que Charlotte pode ter finalmente encontrado sua estrela franchise.</p>
+                        <p>Brandon Miller - A escolha #2 do draft de 2023, Miller representa o futuro ao lado de LaMelo. Seu tamanho, versatilidade e habilidade de arremesso são fundamentais para o projeto.</p>
+                        <p>Kon Knuppel -No dia 25 de junho de 2025, Knueppel foi selecionado na quarta posição geral pelos Charlotte Hornets no Draft da NBA. Reconhecido por sua habilidade de arremesso, especialmente de longa distância, é considerado um dos melhores jogadores do draft nesse aspecto.</p>
+                    </div>
+
+                    <div class="cartao-futuro">
+                        <h3>Objetivos de Curto Prazo</h3>
+                        <p>Desenvolvimento: Maximizar o potencial de LaMelo Ball, Brandon Miller e Kon knueppel.</p>
+                        <p>Competitividade: Retornar aos playoffs de forma consistente e estabelecer uma identidade de time jovem.</p>
+                        <p>Arena: Continuar investindo na experiência dos fãs no Spectrum Center e manter uma das torcidas mais apaixonadas da NBA.</p>
+                    </div>
+
+                    <div class="cartao-futuro">
+                        <h3>Visão de Longo Prazo</h3>
+                        <p>O objetivo: trazer o primeiro título de conferência (e quem sabe um campeonato) para Charlotte. A cidade merece uma franquia competitiva que honre a rica história do basquete na Carolina do Norte.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</body>
+</html>
